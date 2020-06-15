@@ -42,3 +42,4 @@ lines:
   - Plain:
       text: Sorry about that! Let's get started, then, shall we?
 next_scene: a
+enable_builtins: false
